@@ -6,7 +6,7 @@
 
 [🔴 Все версии](https://github.com/morgandusty/Scp-Nine-Tailed-Fox-Russian/releases)
 
-[📗 Актуальная версия](https://github.com/morgandusty/Scp-Nine-Tailed-Fox-Russian/releases)
+[📗 Актуальная версия](https://github.com/morgandusty/Scp-Nine-Tailed-Fox-Russian/releases/tag/RELEASE)
 
 [✨ Рассказать о баге](https://github.com/morgandusty/Scp-Nine-Tailed-Fox-Russian/issues/new?assignees=&labels=&template=отчет-о-баге.md&title=)
 
